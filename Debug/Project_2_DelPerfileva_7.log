@@ -1,3 +1,16 @@
-﻿  designMatrix.cpp
+﻿  calculateResult.cpp
+  designMatrix.cpp
+  getMin.cpp
+  inputMatrix.cpp
+c:\users\delalex\desktop\учеба\тп\лр_2\project_2_delperfileva_7\project_2_delperfileva_7\inputmatrix.cpp(19): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+  outputMatrix.cpp
+  outputResult.cpp
+  main.cpp
+c:\users\delalex\desktop\учеба\тп\лр_2\project_2_delperfileva_7\project_2_delperfileva_7\main.cpp(12): warning C4101: R2: неиспользованная локальная переменная
+c:\users\delalex\desktop\учеба\тп\лр_2\project_2_delperfileva_7\project_2_delperfileva_7\main.cpp(12): warning C4101: R1: неиспользованная локальная переменная
+c:\users\delalex\desktop\учеба\тп\лр_2\project_2_delperfileva_7\project_2_delperfileva_7\main.cpp(10): warning C4101: min: неиспользованная локальная переменная
+c:\users\delalex\desktop\учеба\тп\лр_2\project_2_delperfileva_7\project_2_delperfileva_7\main.cpp(11): warning C4101: B1: неиспользованная локальная переменная
+c:\users\delalex\desktop\учеба\тп\лр_2\project_2_delperfileva_7\project_2_delperfileva_7\main.cpp(11): warning C4101: B2: неиспользованная локальная переменная
+  Создание кода...
   AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   Project_2_DelPerfileva_7.vcxproj -> C:\Users\Delalex\Desktop\Учеба\ТП\ЛР_2\Project_2_DelPerfileva_7\Debug\Project_2_DelPerfileva_7.exe

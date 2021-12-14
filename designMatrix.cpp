@@ -2,6 +2,7 @@
 #include "libraries.h"
 #include "prototypes.h"
 
+// Преображает ввод матрицы
 void designMatrix(int i, int j)
 {
 	Console::Write(L"[");
